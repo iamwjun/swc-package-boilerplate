@@ -1,0 +1,2 @@
+# swc-package-boilerplate-
+swc

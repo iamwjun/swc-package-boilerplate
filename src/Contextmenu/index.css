@@ -19,8 +19,8 @@
   color: #fff;
   cursor: default;
   padding: 0 16px;
+}
 
-  &:hover {
-    background-color: #3e8ae2;
-  }
+.contextmenu-item:hover {
+  background-color: #3e8ae2;
 }

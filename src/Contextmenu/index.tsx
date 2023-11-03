@@ -1,7 +1,5 @@
 import React, { useCallback, useEffect, useRef, useState } from "react";
 
-import "./index.less";
-
 interface ContextmenuProps {
   targetId: string;
   menus: Array<{ label: string; key: string[]; command?: () => void }>;
